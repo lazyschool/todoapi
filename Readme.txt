@@ -1,0 +1,1 @@
+Run 'node script.js' to create database then run 'npm start' to run server
